@@ -21,6 +21,8 @@ public class ExceptionHandling {
             }
         } catch (InSufficientAgeException e) {
             System.out.println("Caught InSufficientAgeException: " + e);
+        }finally {
+            System.out.println("Finally block executed");
         }
     }
 }
