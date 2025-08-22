@@ -1,4 +1,4 @@
-package com.example;
+package com.example.atm;
 
 public class Withdraw {
     private String username;

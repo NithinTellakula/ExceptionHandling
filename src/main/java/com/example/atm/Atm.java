@@ -1,4 +1,4 @@
-package com.example;
+package com.example.atm;
 
 public class Atm {
     public static void main(String[] args) {
